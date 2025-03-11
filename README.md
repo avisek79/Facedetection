@@ -4,7 +4,7 @@ This project implements the simple Face Detection Problem using OpenCV in Python
 
 ## Key Features
 
-Haar Cascade Classifier is used as a pretained model for frontal, profile and alternate face detection.
+Haar Cascade Classifier is used as a pretrained model for frontal, profile and alternate face detection.
 The system also detects faces with goggles on.
 Even program detects fine in a group photos with some little errors.
 More accurate face detection could be achieved using advanced DNN models.
